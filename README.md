@@ -22,3 +22,18 @@ I have rated these tasks in estimated difficulty on a scale from 1 (easiest) to 
 
 https://developer.chrome.com/extensions/overview
 http://www.darbyhayesconsulting.com/scraping-people-also-asked/ 
+
+## Some challenges/notes
+As may have already been obvious to some of you, "loaded" questions are hard to distinguish. For instance, when looking up "Santa Cruz", we get the following PAAs:
+
+
+**People also ask**
+Is it expensive to live in Santa Cruz?
+Is Santa Cruz safe?
+Why is it called Santa Cruz?
+Who bought out Santa Cruz?
+What is the brand Santa Cruz?
+Who owns specialized bike?
+
+
+which ones are "loaded" questions? I find 1 and 2 to potentially fit my former definition of "loaded", even though it's hard to come up with a neutral yet concise replacement question. The first is easy enough, e.g. "What is the cost of living in Santa Cruz, compared to other similarly sized cities". But "Is Santa Cruz safe" is complicated.
