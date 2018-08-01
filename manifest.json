@@ -1,0 +1,16 @@
+{
+	"name": "Make Ambiguous",
+	"version": "0.1",
+	"description": "replaces loaded 'People also ask...' questions with neutral versions.",
+	"icons":{
+		"128": TODO FIND AN ICON
+	}
+	"background": {
+	
+	},
+
+	"permissions": ["https://www.google.com/*", "activeTab"],
+	"browser_action": {
+
+	}
+}
